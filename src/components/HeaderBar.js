@@ -32,7 +32,7 @@ function HeaderBar() {
     } else {
         return (
             <Jumbotron style={{ backgroundColor: 'rgb(11, 97, 255)', color: 'white' }}>
-                <h1>Healhty Heart</h1>
+                <h1 className="p-5">Heart Attack Prediction</h1>
             </Jumbotron>
         );
     }
