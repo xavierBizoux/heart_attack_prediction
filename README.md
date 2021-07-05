@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Heart Attack Prediction
+
+## Data
+
+The data set used to create the model is available [here](https://support.sas.com/documentation/onlinedoc/viya/exampledatasets/heart.csv).
+
+## Build application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
